@@ -1,0 +1,101 @@
+College ID,Country,Total Students,Male,Female,CGPA,Annual Family Income,Branch,Sports,Research Papers Published,Placement Rate,Faculty Count
+College 64,Japan,7137,8168,-1031,8.683038,586076,Civil Engineering,Volleyball,41,83.05,163
+College 70,Switzerland,19738,11668,4679,8.169358,2858716,Biotechnology,Basketball,38,100.0,394
+College 51,China,28134,14240,1160,9.9347445,3629489,Chemical Engineering,Chess,23,100.0,390
+College 99,UK,28349,5507,12481,8.68391,3667820,Biotechnology,Chess,11,66.86,439
+College 82,Japan,4275,3489,786,9.8699965,4219993,Economics,Basketball,2,99.01,166
+College 99,UK,2130,5787,-3657,9.781864,1303728,Physics,Swimming,16,99.54,186
+College 83,USA,24594,8565,14491,8.910399,700798,Mechanical Engineering,Cricket,2,81.29,603
+College 69,South Africa,16353,7417,723,9.79356,3447120,Economics,Volleyball,45,76.5,453
+College 41,Singapore,19808,1579,6453,10.0,2995713,Civil Engineering,Chess,36,90.02,650
+College 95,China,11470,10377,1093,9.5667265,4093453,Chemical Engineering,Cricket,40,81.32,222
+College 11,China,20070,10631,7790,9.1422785,2704557,Economics,Chess,3,66.63,400
+College 86,Switzerland,28680,7980,5406,10.0,4797229,Biotechnology,Chess,49,91.97,530
+College 100,South Africa,22664,816,2331,8.109352,518704,Chemical Engineering,Cricket,31,98.84,440
+College 33,Switzerland,8520,4784,3736,8.797782999999999,1575566,Mathematics,Athletics,19,74.9,204
+College 22,South Africa,4843,6283,-1440,7.995083,2770166,Biotechnology,Football,6,66.00999999999999,238
+College 97,India,14675,1264,13407,7.155192,330384,Mathematics,Tennis,46,83.83,442
+College 21,Switzerland,10532,3771,1176,8.4399195,1679839,Electrical Engineering,Football,46,100.0,225
+College 8,Australia,27917,2785,13350,10.0,3826222,Computer Science,Badminton,32,64.81,524
+College 45,China,14561,7339,7222,7.657462,634924,Civil Engineering,Basketball,24,81.30000000000001,567
+College 32,Switzerland,20103,1627,12977,6.4668244999999995,593649,Computer Science,Athletics,32,100.0,517
+College 45,Switzerland,11929,10075,687,6.4765630000000005,1733126,Mechanical Engineering,Football,36,93.3,257
+College 89,South Africa,5882,8179,-2297,7.614519,1989038,Mechanical Engineering,Tennis,42,86.33,191
+College 26,Switzerland,19186,9176,7278,8.0215925,403185,Economics,Cricket,31,100.0,471
+College 90,Singapore,15059,11414,2113,8.398958,1277916,Biotechnology,Badminton,15,98.49,566
+College 57,Japan,6693,5679,896,7.9229435,3565887,Computer Science,Football,11,68.42999999999999,475
+College 30,Switzerland,21378,10306,9902,8.2408555,2661711,Civil Engineering,Football,26,67.21,690
+College 76,China,9245,2223,7022,10.0,4258730,Electrical Engineering,Basketball,0,70.12,387
+College 75,Switzerland,2326,4530,-2204,8.4587135,1377427,Business Administration,Cricket,31,92.95,111
+College 37,Australia,3345,8044,-4699,8.207851999999999,1075704,Economics,Swimming,7,62.68,466
+College 98,Canada,5006,11835,-6829,8.420072,2000144,Mathematics,Football,2,61.650000000000006,514
+College 26,UK,17548,3134,13818,8.4691695,3178339,Computer Science,Football,1,62.46,293
+College 59,South Africa,21355,4453,8392,7.434409,1108818,Chemical Engineering,Volleyball,18,87.57,598
+College 2,China,26459,11014,7149,9.7425355,4525071,Physics,Volleyball,29,73.67,732
+College 2,Japan,28859,9515,7991,9.1068055,2193611,Economics,Cricket,43,73.58,669
+College 23,Switzerland,27627,13574,14053,5.5798745,459749,Economics,Cricket,9,80.99000000000001,659
+College 24,Singapore,7506,3033,4473,9.5429425,2585885,Economics,Athletics,42,97.99,412
+College 26,Singapore,29848,11211,11194,7.0434915,1826983,Mechanical Engineering,Swimming,29,70.55000000000001,593
+College 70,USA,14696,912,13776,9.6381895,4816379,Computer Science,Badminton,4,79.5,250
+College 75,Switzerland,15317,9935,5382,7.5313035,1662607,Business Administration,Badminton,24,70.96000000000001,411
+College 72,UK,15462,3268,3662,6.404292999999999,268586,Electrical Engineering,Tennis,12,99.24,292
+College 88,South Africa,12499,13723,-1224,8.716086,3292172,Mechanical Engineering,Cricket,34,91.14,461
+College 81,China,29072,9826,7907,9.3842365,3148473,Biotechnology,Athletics,8,61.5,753
+College 56,South Africa,29009,7952,4675,8.7774105,2734821,Mathematics,Basketball,7,61.09,724
+College 5,Singapore,24865,10771,11982,7.5922415,1444483,Mechanical Engineering,Badminton,19,64.03,440
+College 79,Australia,28102,4869,12347,8.39859,3797180,Physics,Volleyball,14,81.02000000000001,622
+College 53,Japan,12360,4750,6429,7.541723999999999,983448,Mechanical Engineering,Basketball,44,100.0,525
+College 47,India,8447,7137,1310,8.841621,1803242,Electrical Engineering,Football,16,65.34,365
+College 73,Australia,10228,8965,1263,9.7072795,3594559,Mathematics,Swimming,33,100.0,599
+College 4,China,7394,550,6844,8.069655000000001,2259310,Mathematics,Badminton,12,91.22,414
+College 87,Japan,8603,9154,-551,8.058666,4537332,Mathematics,Athletics,24,67.68,332
+College 67,Canada,19152,6957,6363,8.003795,1047590,Economics,Badminton,26,68.08999999999999,502
+College 5,Singapore,6125,6839,-714,9.822689,3145378,Mathematics,Football,33,83.96,406
+College 62,Japan,8278,7192,1086,9.0874295,3214859,Economics,Tennis,39,87.82000000000001,151
+College 46,Canada,23445,2602,3320,7.170018,1000036,Physics,Badminton,17,79.94,354
+College 64,Japan,3762,8078,-4316,9.636815,4653630,Mechanical Engineering,Badminton,8,97.31,445
+College 97,South Africa,13516,14957,-1441,8.186094,1652188,Civil Engineering,Badminton,32,65.72,596
+College 5,UK,27751,12035,6971,8.8766135,3493227,Economics,Basketball,13,85.6,356
+College 72,Canada,24226,1312,11610,9.839795,4999590,Mathematics,Badminton,10,93.01,417
+College 60,South Africa,2642,9185,-6543,9.4785825,3117165,Civil Engineering,Athletics,36,98.92,104
+College 69,USA,24509,6346,4146,9.0634595,4246919,Computer Science,Volleyball,32,98.73,537
+College 11,Australia,29586,12323,6254,9.9075165,3855033,Physics,Basketball,21,80.66999999999999,763
+College 58,Canada,11999,4544,7455,7.660861,2041722,Mechanical Engineering,Basketball,49,100.0,398
+College 42,China,3155,13244,-10089,10.0,4190987,Biotechnology,Athletics,22,75.38000000000001,307
+College 93,Switzerland,2246,4942,-2696,8.796918,1593836,Business Administration,Basketball,48,73.11999999999999,491
+College 58,Switzerland,3963,8661,-4698,6.726832,2313664,Civil Engineering,Basketball,33,88.27,446
+College 65,USA,14993,2717,12276,8.5682445,616489,Business Administration,Cricket,46,72.25,262
+College 99,Japan,1987,4757,-2770,8.71747,3494940,Chemical Engineering,Football,22,73.75,153
+College 86,Japan,22297,7568,7631,9.698369,4256738,Mathematics,Football,26,84.83,538
+College 68,Canada,11048,11884,-836,7.384987000000001,3709974,Business Administration,Volleyball,16,72.02,176
+College 22,South Africa,11188,8411,2777,6.4612505,1322501,Computer Science,Athletics,11,89.28999999999999,537
+College 41,China,10878,10780,98,9.9139375,1127875,Biotechnology,Cricket,42,91.87,320
+College 44,South Africa,14428,10436,3992,10.0,3219512,Civil Engineering,Football,49,64.97,495
+College 11,Canada,3169,14595,-11426,6.6781295,1276259,Mathematics,Tennis,24,77.76,381
+College 15,Singapore,8858,4132,4726,10.0,2425067,Mathematics,Volleyball,10,78.33,169
+College 37,USA,14055,1348,10487,7.052877,905754,Civil Engineering,Chess,6,61.66,399
+College 13,Canada,1983,9934,-7951,9.941536,1223072,Mechanical Engineering,Badminton,13,92.01,505
+College 11,Japan,29489,5739,615,5.80587,431740,Mechanical Engineering,Chess,19,92.2,755
+College 42,USA,8988,10912,-1924,7.937406999999999,1774814,Physics,Swimming,39,95.05,421
+College 54,Switzerland,14520,1090,5530,7.475559,1451118,Chemical Engineering,Football,28,75.09,470
+College 9,Singapore,11482,4547,5594,7.443715,1947430,Mathematics,Badminton,11,100.0,194
+College 44,China,7830,11102,-3272,9.398483,4456966,Computer Science,Basketball,48,96.58,208
+College 32,Japan,4413,762,2180,9.2809685,2941937,Physics,Chess,12,93.64,459
+College 59,USA,14502,10798,3704,9.2455995,3691199,Chemical Engineering,Athletics,14,85.14,253
+College 53,Japan,21540,6470,8162,10.0,4601322,Physics,Basketball,27,86.05,382
+College 55,Japan,8003,11154,-3151,9.596732,3273464,Chemical Engineering,Cricket,20,100.0,176
+College 14,Switzerland,4303,912,1701,7.288086999999999,2456174,Mechanical Engineering,Chess,29,79.0,398
+College 96,UK,4251,4626,-375,10.0,3279629,Business Administration,Athletics,46,98.4,201
+College 55,Switzerland,9529,6539,2990,10.0,4295414,Physics,Cricket,34,100.0,573
+College 9,Australia,7509,14603,-7094,6.7329745,245949,Physics,Basketball,47,78.91,343
+College 63,Japan,14940,6026,6527,8.479525,3059050,Biotechnology,Chess,37,84.16,533
+College 54,India,21982,1614,9564,9.597759,2255518,Physics,Swimming,27,87.22,632
+College 80,Singapore,15490,11365,4125,8.2866275,1693255,Computer Science,Football,13,94.48,584
+College 25,Singapore,27999,4523,14534,9.7507095,561419,Business Administration,Swimming,34,68.01,596
+College 2,India,22283,10744,5363,10.0,3783811,Mathematics,Chess,6,72.44,715
+College 26,Japan,13806,7233,6573,8.8495295,1359059,Civil Engineering,Cricket,33,100.0,517
+College 83,Switzerland,27809,7860,9337,7.7413225,2362645,Biotechnology,Swimming,44,95.86,768
+College 27,UK,7601,9797,-2196,8.4833605,3186721,Mathematics,Cricket,39,100.0,377
+College 35,UK,19098,10585,7533,9.48294,3825880,Mathematics,Swimming,38,100.0,435
+College 81,Singapore,3647,7435,-3788,10.0,4106069,Electrical Engineering,Tennis,35,70.26,376
+College 22,USA,16196,7135,9061,9.1560065,3812013,Business Administration,Football,30,68.42,353
