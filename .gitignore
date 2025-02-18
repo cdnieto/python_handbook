@@ -7,6 +7,7 @@ wheels/
 *.egg-info
 
 # Virtual environments
+.env
 .venv
 venv/
 
@@ -14,3 +15,4 @@ venv/
 
 saithon_demo.py
 prueba.md
+interview_questions.txt
