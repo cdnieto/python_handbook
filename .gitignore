@@ -16,3 +16,5 @@ venv/
 saithon_demo.py
 prueba.md
 interview_questions.txt
+
+*.safetensors
